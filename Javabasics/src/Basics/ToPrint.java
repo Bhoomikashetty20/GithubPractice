@@ -5,6 +5,6 @@ public class ToPrint {
 	public static void main(String[] args) {
 		System.out.println("Hello...");
 		System.out.println("Welcome...");
-		System.out.println("Byeee.....");
+		int a=10;
 	}
 }
