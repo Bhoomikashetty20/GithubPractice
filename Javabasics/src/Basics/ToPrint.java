@@ -6,5 +6,6 @@ public class ToPrint {
 		System.out.println("Hello...");
 		System.out.println("Welcome...");
 		int a=10;
+		System.out.println(a);
 	}
 }
